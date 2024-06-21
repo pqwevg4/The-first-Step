@@ -47,7 +47,6 @@ This repository contains all the assignments and projects completed during the T
    ```bash
    git clone https://github.com/yourusername/the-first-steps.git
 
-
 ## Thapar Summer School on Machine Learning & Deep Learning
 
 **Six weeks training program for UG/PG/PhD in offline mode**  
