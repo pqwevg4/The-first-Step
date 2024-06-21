@@ -6,7 +6,7 @@ This repository contains all the assignments and projects completed during the T
 
 ### Contents
 
-- [Assignments](https://github.com/pqwevg4/The-first-Step/tree/Assingments)
+- [Assignments](https://github.com/pqwevg4/Assingments-of-TSS)
 - [Projects](./projects)
 - [Competitions](./competitions)
 
